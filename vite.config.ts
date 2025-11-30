@@ -4,7 +4,7 @@
   import path from 'path';
 
   export default defineConfig({
-       base: '/Student-Learning-Portal/',
+       base: '/Student-Learning-Portal-2400030408-/',
     plugins: [react()],
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
